@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm Riccardo Rettore, a passionate AI enthusiast w
 
 ## 🔗 Connect with Me
 
-- [GitHub](https://github.com/1richi1)
+- [Personal Website](https://1richi1.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/riccardo-rettore)
-- [Personal Website](https://yourwebsite.com) (coming soon)
+
 
 Feel free to check out my repositories and contributions. I’m always open to collaboration, learning, and exploring new ideas in the world of AI and robotics. Let’s build the future together! 🤖🚀
