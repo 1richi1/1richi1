@@ -1,6 +1,6 @@
 # Riccardo Rettore - AI Enthusiast | Deep Learning | Robotics | Control Systems
 
-Welcome to my GitHub profile! I'm Riccardo Rettore, a passionate AI enthusiast with a strong background in deep learning, robotics, control systems, and computer vision. Currently pursuing a master's degree in Control Systems Engineering with a focus on robotics and AI at the University of Vicenza, I’m dedicated to pushing the boundaries of technology to create innovative, real-world applications.
+Welcome to my GitHub profile! I'm Riccardo Rettore, a passionate AI enthusiast with a strong background in deep learning, robotics, control systems, and computer vision. Currently pursuing a master's degree in Control Systems Engineering with a focus on robotics and AI at the University of Padova, I’m dedicated to pushing the boundaries of technology to create innovative, real-world applications.
 
 ## 🚀 About Me
 
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm Riccardo Rettore, a passionate AI enthusiast w
 - **Deep Learning**: TensorFlow, PyTorch, OpenCV
 - **Robotics**: ROS, Gazebo, RViz
 - **Control Systems**: MATLAB, Simulink
-- **Cloud & Web**: Firebase, GitHub Pages, Google Cloud
-- **Other**: Docker, Git, LaTeX
+- **Cloud & Web**: Firebase, GitHub Pages
+- **Other**: Git, LaTeX
 
 ## 🔗 Connect with Me
 
